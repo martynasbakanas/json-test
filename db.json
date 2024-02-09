@@ -1,1 +1,42 @@
-[{"name":"Sherry  O&#8217;Donnell","state":"mi","lat":43.326618,"lng":-84.536095,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Patricia  Morgan","state":"ri","lat":41.680893,"lng":-71.51178,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Carolyn  Phippen","state":"ut","lat":40.150032,"lng":-111.862434,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Ghannon  Burton","state":"ms","lat":32.741646,"lng":-89.678696,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Frank  LaRose","state":"oh","lat":40.388783,"lng":-82.764915,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Stephanie  Phillips","state":"nv","lat":38.313515,"lng":-117.055374,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Dan  Eubanks","state":"ms","lat":32.741646,"lng":-89.678696,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Hung  Cao","state":"va","lat":37.769337,"lng":-78.169968,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Brad  Wilson","state":"ut","lat":40.150032,"lng":-111.862434,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Bernie  Moreno","state":"oh","lat":40.388783,"lng":-82.764915,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Trent  Staggs","state":"ut","lat":40.150032,"lng":-111.862434,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"William Bill Conrad","state":"nv","lat":38.313515,"lng":-117.055374,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Walter Anthony &#8220;Tony&#8221; Grady Jr","state":"nv","lat":38.313515,"lng":-117.055374,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Matt  Dolan","state":"oh","lat":40.388783,"lng":-82.764915,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Jeremy  Mygland","state":"mt","lat":46.921925,"lng":-110.454353,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Nikki  Snyder","state":"mi","lat":43.326618,"lng":-84.536095,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Raymond  McKay","state":"ri","lat":41.680893,"lng":-71.51178,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Jim  Justice","state":"wv","lat":38.491226,"lng":-80.954453,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Michael Robert Hoover","state":"mi","lat":43.326618,"lng":-84.536095,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Jonathan  Emord","state":"va","lat":37.769337,"lng":-78.169968,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Scott  Parkinson","state":"va","lat":37.769337,"lng":-78.169968,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Alex  Mooney","state":"wv","lat":38.491226,"lng":-80.954453,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Markwayne  Mullin","state":"ok","lat":35.565342,"lng":-96.928917,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Lisa  Murkowski","state":"ak","lat":61.370716,"lng":-152.404419,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Eric Stephen Schmitt","state":"mo","lat":38.456085,"lng":-92.288368,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"J.D. Vance","state":"oh","lat":40.388783,"lng":-82.764915,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Tedd  Budd","state":"nc","lat":35.630066,"lng":-79.806419,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Katie  Britt","state":"al","lat":32.806671,"lng":-86.79113,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Bill  Hagerty","state":"tn","lat":35.747845,"lng":-86.692345,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Tommy  Tuberville","state":"al","lat":32.806671,"lng":-86.79113,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"John  Barrasso","state":"wy","lat":42.755966,"lng":-107.30249,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Cynthia  Lummis","state":"wy","lat":42.755966,"lng":-107.30249,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Rick  Scott","state":"fl","lat":27.766279,"lng":-81.686783,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Mitt  Romney","state":"ut","lat":40.150032,"lng":-111.862434,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"},{"name":"Marsha  Blackburn","state":"tn","lat":35.747845,"lng":-86.692345,"type":"square","color":"#52b69a","border_color":"#52b69a","hide":"no"}]
+[
+    {
+        "name": "Sherry  O&#8217;Donnell",
+        "state": "mi",
+        "lat": 43.326618,
+        "lng": -84.536095,
+        "type": "square",
+        "color": "#52b69a",
+        "border_color": "#52b69a",
+        "hide": "no"
+    },
+    {
+        "name": "Patricia  Morgan",
+        "state": "ri",
+        "lat": 41.680893,
+        "lng": -71.51178,
+        "type": "square",
+        "color": "#52b69a",
+        "border_color": "#52b69a",
+        "hide": "no"
+    },
+    {
+        "name": "Carolyn  Phippen",
+        "state": "ut",
+        "lat": 40.150032,
+        "lng": -111.862434,
+        "type": "square",
+        "color": "#52b69a",
+        "border_color": "#52b69a",
+        "hide": "no"
+    },
+    {
+        "name": "Ghannon  Burton",
+        "state": "ms",
+        "lat": 32.741646,
+        "lng": -89.678696,
+        "type": "square",
+        "color": "#52b69a",
+        "border_color": "#52b69a",
+        "hide": "no"
+    }
+]
