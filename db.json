@@ -1,4 +1,4 @@
-{
+[
     {
         "name": "Sherry  O&#8217;Donnell",
         "state": "mi",
@@ -348,5 +348,5 @@
         "color": "#52b69a",
         "border_color": "#52b69a",
         "hide": "no"
-    },
-}
+    }
+]
